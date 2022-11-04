@@ -83,3 +83,9 @@ section > .container{
     flex-basis: 60%;
     background-color: blue;
 }
+ .full-col{
+    flex-basis: 100%;
+    background-color: green;
+ }
+
+ 
